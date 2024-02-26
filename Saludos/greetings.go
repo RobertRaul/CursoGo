@@ -1,0 +1,5 @@
+package saludos
+
+func Hello() {
+
+}
