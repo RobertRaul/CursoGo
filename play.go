@@ -1,13 +1,13 @@
 package main
 
 import (
-	contact "cursogo/gertorcontactos"
+	vinyl "cursogo/vinyl-api"
 	"fmt"
 	"math/rand/v2"
 )
 
 func main() {
-	contact.Inicio()
+	vinyl.Ini()
 }
 
 func jugar() {
